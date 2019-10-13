@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bahchahva.doingthedishes.com/sitemap.xml
